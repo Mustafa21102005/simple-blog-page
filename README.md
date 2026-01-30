@@ -13,6 +13,15 @@ A clean, responsive blog layout built with HTML and CSS. Ideal for beginners loo
 
 ---
 
+## 🔗 Check It Out!
+
+👉 **Live Demo:**
+https://mustafa21102005.github.io/simple-blog-page/
+
+Explore the blog page directly in your browser.
+
+---
+
 ## 📧 Author
 
 **Mustafa Azmi Khalil**
