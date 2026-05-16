@@ -32,7 +32,7 @@ a {
 }
 
 .xl-text {
-  font-size: 18px
+  font-size: 18px;
 }
 
 .right {
@@ -58,7 +58,7 @@ a {
 }
 
 .opacity {
-  opacity: 0.60
+  opacity: 0.6;
 }
 
 .circle,
@@ -69,7 +69,7 @@ a {
 }
 
 .circle {
-  border-radius: 50%
+  border-radius: 50%;
 }
 
 .read-more {
